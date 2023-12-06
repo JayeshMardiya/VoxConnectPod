@@ -45,7 +45,7 @@
 		82C855484704D79169E37AA0 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		85DE6F40F58F28FE8FDDDC9D /* Pods-VoxConnectPod_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-VoxConnectPod_Tests.debug.xcconfig"; path = "Target Support Files/Pods-VoxConnectPod_Tests/Pods-VoxConnectPod_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		A9C39AB5444EBE911139ABDE /* Pods_VoxConnectPod_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VoxConnectPod_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C9469E7B4281E64ED71680F4 /* VoxConnectPod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = VoxConnectPod.podspec; path = ../VoxConnectPod.podspec; sourceTree = "<group>"; };
+		C9469E7B4281E64ED71680F4 /* VoxConnectPod.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = VoxConnectPod.podspec; path = ../VoxConnectPod.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		CA32A203349C2704550C80FC /* Pods_VoxConnectPod_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_VoxConnectPod_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 

@@ -37,30 +37,30 @@
 		18211EE7B495AA06EBBED1D6FD9423C0 /* RxCocoa-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = F905F84C6CD26845DDC81D1DADF94B3A /* RxCocoa-dummy.m */; };
 		19BF82110898C4D3B93D2BB891F47B51 /* SubjectType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34B6BAC3F9CC95BCABFDCB4D4442826F /* SubjectType.swift */; };
 		1AF54BCA2B20B36B00468606 /* WebRTC.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1AF54BC92B20B36B00468606 /* WebRTC.xcframework */; };
-		1AF54C692B20B3BA00468606 /* ConferenceClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C552B20B3BA00468606 /* ConferenceClient.swift */; };
-		1AF54C6A2B20B3BA00468606 /* ConferenceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C602B20B3BA00468606 /* ConferenceManager.swift */; };
-		1AF54C702B20B3EC00468606 /* UserTypeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C642B20B3BA00468606 /* UserTypeModel.swift */; };
-		1AF54C712B20B3EC00468606 /* RequestCredentialModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C662B20B3BA00468606 /* RequestCredentialModel.swift */; };
-		1AF54C722B20B3EC00468606 /* PresenterMessageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C652B20B3BA00468606 /* PresenterMessageModel.swift */; };
-		1AF54C732B20B3EC00468606 /* AudioInfoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C622B20B3BA00468606 /* AudioInfoModel.swift */; };
-		1AF54C742B20B3EC00468606 /* ListenerMessageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C632B20B3BA00468606 /* ListenerMessageModel.swift */; };
-		1AF54C752B20B3F000468606 /* Run.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C682B20B3BA00468606 /* Run.swift */; };
-		1AF54C762B20B3F500468606 /* Data+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C5F2B20B3BA00468606 /* Data+Extensions.swift */; };
-		1AF54C772B20B3F500468606 /* Strings+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C5A2B20B3BA00468606 /* Strings+Extensions.swift */; };
-		1AF54C782B20B3F500468606 /* Encodable+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C5C2B20B3BA00468606 /* Encodable+Extensions.swift */; };
-		1AF54C792B20B3F500468606 /* Dictionary+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C5D2B20B3BA00468606 /* Dictionary+Extensions.swift */; };
-		1AF54C7A2B20B3F500468606 /* GenericError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C5E2B20B3BA00468606 /* GenericError.swift */; };
-		1AF54C7B2B20B3F500468606 /* URLRequest+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C5B2B20B3BA00468606 /* URLRequest+Extensions.swift */; };
-		1AF54C7C2B20B3F900468606 /* WebSocketApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C582B20B3BA00468606 /* WebSocketApiService.swift */; };
-		1AF54C7D2B20B3F900468606 /* ApiProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C572B20B3BA00468606 /* ApiProvider.swift */; };
-		1AF54C7E2B20B40100468606 /* AntMediaClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C4E2B20B3BA00468606 /* AntMediaClient.swift */; };
-		1AF54C7F2B20B40100468606 /* AntMediaWebRTCClientDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C532B20B3BA00468606 /* AntMediaWebRTCClientDelegate.swift */; };
-		1AF54C802B20B40100468606 /* AntMediaClientDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C542B20B3BA00468606 /* AntMediaClientDelegate.swift */; };
-		1AF54C812B20B40100468606 /* RTCCustomFrameCapturer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C4D2B20B3BA00468606 /* RTCCustomFrameCapturer.swift */; };
-		1AF54C822B20B40100468606 /* AntMediaWebRTCClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C4F2B20B3BA00468606 /* AntMediaWebRTCClient.swift */; };
-		1AF54C832B20B40100468606 /* AntMediaError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C502B20B3BA00468606 /* AntMediaError.swift */; };
-		1AF54C842B20B40100468606 /* AntMediaConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C522B20B3BA00468606 /* AntMediaConfig.swift */; };
-		1AF54C852B20B40100468606 /* AntMediaClientProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54C512B20B3BA00468606 /* AntMediaClientProtocol.swift */; };
+		1AF54CB42B20B8BF00468606 /* ConferenceClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CB22B20B8BF00468606 /* ConferenceClient.swift */; };
+		1AF54CB52B20B8BF00468606 /* ConferenceManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CB32B20B8BF00468606 /* ConferenceManager.swift */; };
+		1AF54CBE2B20B8CE00468606 /* AntMediaConfig.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CB62B20B8CE00468606 /* AntMediaConfig.swift */; };
+		1AF54CBF2B20B8CE00468606 /* AntMediaWebRTCClientDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CB72B20B8CE00468606 /* AntMediaWebRTCClientDelegate.swift */; };
+		1AF54CC02B20B8CE00468606 /* RTCCustomFrameCapturer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CB82B20B8CE00468606 /* RTCCustomFrameCapturer.swift */; };
+		1AF54CC12B20B8CE00468606 /* AntMediaWebRTCClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CB92B20B8CE00468606 /* AntMediaWebRTCClient.swift */; };
+		1AF54CC22B20B8CE00468606 /* AntMediaClientDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CBA2B20B8CE00468606 /* AntMediaClientDelegate.swift */; };
+		1AF54CC32B20B8CE00468606 /* AntMediaError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CBB2B20B8CE00468606 /* AntMediaError.swift */; };
+		1AF54CC42B20B8CE00468606 /* AntMediaClientProtocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CBC2B20B8CE00468606 /* AntMediaClientProtocol.swift */; };
+		1AF54CC52B20B8CE00468606 /* AntMediaClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CBD2B20B8CE00468606 /* AntMediaClient.swift */; };
+		1AF54CC82B20B8D600468606 /* WebSocketApiService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CC62B20B8D600468606 /* WebSocketApiService.swift */; };
+		1AF54CC92B20B8D600468606 /* ApiProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CC72B20B8D600468606 /* ApiProvider.swift */; };
+		1AF54CD02B20B8DE00468606 /* Dictionary+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CCA2B20B8DE00468606 /* Dictionary+Extensions.swift */; };
+		1AF54CD12B20B8DE00468606 /* Data+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CCB2B20B8DE00468606 /* Data+Extensions.swift */; };
+		1AF54CD22B20B8DE00468606 /* Encodable+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CCC2B20B8DE00468606 /* Encodable+Extensions.swift */; };
+		1AF54CD32B20B8DE00468606 /* Strings+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CCD2B20B8DE00468606 /* Strings+Extensions.swift */; };
+		1AF54CD42B20B8DE00468606 /* URLRequest+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CCE2B20B8DE00468606 /* URLRequest+Extensions.swift */; };
+		1AF54CD52B20B8DE00468606 /* GenericError.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CCF2B20B8DE00468606 /* GenericError.swift */; };
+		1AF54CD72B20B8E500468606 /* Run.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CD62B20B8E500468606 /* Run.swift */; };
+		1AF54CDD2B20B8EE00468606 /* AudioInfoModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CD82B20B8ED00468606 /* AudioInfoModel.swift */; };
+		1AF54CDE2B20B8EE00468606 /* ListenerMessageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CD92B20B8ED00468606 /* ListenerMessageModel.swift */; };
+		1AF54CDF2B20B8EE00468606 /* RequestCredentialModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CDA2B20B8EE00468606 /* RequestCredentialModel.swift */; };
+		1AF54CE02B20B8EE00468606 /* UserTypeModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CDB2B20B8EE00468606 /* UserTypeModel.swift */; };
+		1AF54CE12B20B8EE00468606 /* PresenterMessageModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF54CDC2B20B8EE00468606 /* PresenterMessageModel.swift */; };
 		1B6E87564388B3F7D14282A05F22F9A4 /* Switch.swift in Sources */ = {isa = PBXBuildFile; fileRef = 63CD18817AF8911D86A1A2318BE9AFEF /* Switch.swift */; };
 		1BBA17C84C1047D950E6EFD6FA8CB497 /* ReplaceMe.swift in Sources */ = {isa = PBXBuildFile; fileRef = 121D7D5A400A0F7CDD2BAC849E198CD0 /* ReplaceMe.swift */; };
 		1CBA7E6B3271DE008E87EF174B1CF173 /* ObservableConvertibleType+Infallible.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9F52217D3EA52C804709565461F0BBD3 /* ObservableConvertibleType+Infallible.swift */; };
@@ -586,30 +586,30 @@
 		1A2BBDB072098FDE5AFDC8426FB54160 /* DefaultIfEmpty.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = DefaultIfEmpty.swift; path = RxSwift/Observables/DefaultIfEmpty.swift; sourceTree = "<group>"; };
 		1A8234D2629A18EF09F23982CB3957A3 /* InfiniteSequence.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = InfiniteSequence.swift; path = Platform/DataStructures/InfiniteSequence.swift; sourceTree = "<group>"; };
 		1AF54BC92B20B36B00468606 /* WebRTC.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; path = WebRTC.xcframework; sourceTree = "<group>"; };
-		1AF54C4D2B20B3BA00468606 /* RTCCustomFrameCapturer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RTCCustomFrameCapturer.swift; sourceTree = "<group>"; };
-		1AF54C4E2B20B3BA00468606 /* AntMediaClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AntMediaClient.swift; sourceTree = "<group>"; };
-		1AF54C4F2B20B3BA00468606 /* AntMediaWebRTCClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AntMediaWebRTCClient.swift; sourceTree = "<group>"; };
-		1AF54C502B20B3BA00468606 /* AntMediaError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AntMediaError.swift; sourceTree = "<group>"; };
-		1AF54C512B20B3BA00468606 /* AntMediaClientProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AntMediaClientProtocol.swift; sourceTree = "<group>"; };
-		1AF54C522B20B3BA00468606 /* AntMediaConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AntMediaConfig.swift; sourceTree = "<group>"; };
-		1AF54C532B20B3BA00468606 /* AntMediaWebRTCClientDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AntMediaWebRTCClientDelegate.swift; sourceTree = "<group>"; };
-		1AF54C542B20B3BA00468606 /* AntMediaClientDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AntMediaClientDelegate.swift; sourceTree = "<group>"; };
-		1AF54C552B20B3BA00468606 /* ConferenceClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ConferenceClient.swift; path = ../Desktop/Sources/ConferenceClient.swift; sourceTree = "<group>"; };
-		1AF54C572B20B3BA00468606 /* ApiProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiProvider.swift; sourceTree = "<group>"; };
-		1AF54C582B20B3BA00468606 /* WebSocketApiService.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebSocketApiService.swift; sourceTree = "<group>"; };
-		1AF54C5A2B20B3BA00468606 /* Strings+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Strings+Extensions.swift"; sourceTree = "<group>"; };
-		1AF54C5B2B20B3BA00468606 /* URLRequest+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "URLRequest+Extensions.swift"; sourceTree = "<group>"; };
-		1AF54C5C2B20B3BA00468606 /* Encodable+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Encodable+Extensions.swift"; sourceTree = "<group>"; };
-		1AF54C5D2B20B3BA00468606 /* Dictionary+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Dictionary+Extensions.swift"; sourceTree = "<group>"; };
-		1AF54C5E2B20B3BA00468606 /* GenericError.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GenericError.swift; sourceTree = "<group>"; };
-		1AF54C5F2B20B3BA00468606 /* Data+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Data+Extensions.swift"; sourceTree = "<group>"; };
-		1AF54C602B20B3BA00468606 /* ConferenceManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = ConferenceManager.swift; path = ../Desktop/Sources/ConferenceManager.swift; sourceTree = "<group>"; };
-		1AF54C622B20B3BA00468606 /* AudioInfoModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioInfoModel.swift; sourceTree = "<group>"; };
-		1AF54C632B20B3BA00468606 /* ListenerMessageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ListenerMessageModel.swift; sourceTree = "<group>"; };
-		1AF54C642B20B3BA00468606 /* UserTypeModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserTypeModel.swift; sourceTree = "<group>"; };
-		1AF54C652B20B3BA00468606 /* PresenterMessageModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PresenterMessageModel.swift; sourceTree = "<group>"; };
-		1AF54C662B20B3BA00468606 /* RequestCredentialModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RequestCredentialModel.swift; sourceTree = "<group>"; };
-		1AF54C682B20B3BA00468606 /* Run.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Run.swift; sourceTree = "<group>"; };
+		1AF54CB22B20B8BF00468606 /* ConferenceClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ConferenceClient.swift; path = ../../../Desktop/Sources/ConferenceClient.swift; sourceTree = "<group>"; };
+		1AF54CB32B20B8BF00468606 /* ConferenceManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ConferenceManager.swift; path = ../../../Desktop/Sources/ConferenceManager.swift; sourceTree = "<group>"; };
+		1AF54CB62B20B8CE00468606 /* AntMediaConfig.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AntMediaConfig.swift; sourceTree = "<group>"; };
+		1AF54CB72B20B8CE00468606 /* AntMediaWebRTCClientDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AntMediaWebRTCClientDelegate.swift; sourceTree = "<group>"; };
+		1AF54CB82B20B8CE00468606 /* RTCCustomFrameCapturer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RTCCustomFrameCapturer.swift; sourceTree = "<group>"; };
+		1AF54CB92B20B8CE00468606 /* AntMediaWebRTCClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AntMediaWebRTCClient.swift; sourceTree = "<group>"; };
+		1AF54CBA2B20B8CE00468606 /* AntMediaClientDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AntMediaClientDelegate.swift; sourceTree = "<group>"; };
+		1AF54CBB2B20B8CE00468606 /* AntMediaError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AntMediaError.swift; sourceTree = "<group>"; };
+		1AF54CBC2B20B8CE00468606 /* AntMediaClientProtocol.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AntMediaClientProtocol.swift; sourceTree = "<group>"; };
+		1AF54CBD2B20B8CE00468606 /* AntMediaClient.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AntMediaClient.swift; sourceTree = "<group>"; };
+		1AF54CC62B20B8D600468606 /* WebSocketApiService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WebSocketApiService.swift; sourceTree = "<group>"; };
+		1AF54CC72B20B8D600468606 /* ApiProvider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiProvider.swift; sourceTree = "<group>"; };
+		1AF54CCA2B20B8DE00468606 /* Dictionary+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Dictionary+Extensions.swift"; sourceTree = "<group>"; };
+		1AF54CCB2B20B8DE00468606 /* Data+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Data+Extensions.swift"; sourceTree = "<group>"; };
+		1AF54CCC2B20B8DE00468606 /* Encodable+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Encodable+Extensions.swift"; sourceTree = "<group>"; };
+		1AF54CCD2B20B8DE00468606 /* Strings+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Strings+Extensions.swift"; sourceTree = "<group>"; };
+		1AF54CCE2B20B8DE00468606 /* URLRequest+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "URLRequest+Extensions.swift"; sourceTree = "<group>"; };
+		1AF54CCF2B20B8DE00468606 /* GenericError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GenericError.swift; sourceTree = "<group>"; };
+		1AF54CD62B20B8E500468606 /* Run.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Run.swift; sourceTree = "<group>"; };
+		1AF54CD82B20B8ED00468606 /* AudioInfoModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AudioInfoModel.swift; sourceTree = "<group>"; };
+		1AF54CD92B20B8ED00468606 /* ListenerMessageModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListenerMessageModel.swift; sourceTree = "<group>"; };
+		1AF54CDA2B20B8EE00468606 /* RequestCredentialModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RequestCredentialModel.swift; sourceTree = "<group>"; };
+		1AF54CDB2B20B8EE00468606 /* UserTypeModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserTypeModel.swift; sourceTree = "<group>"; };
+		1AF54CDC2B20B8EE00468606 /* PresenterMessageModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PresenterMessageModel.swift; sourceTree = "<group>"; };
 		1CBC6289190A11A4D829FA87C0635639 /* Platform.Linux.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Platform.Linux.swift; path = Platform/Platform.Linux.swift; sourceTree = "<group>"; };
 		1DBE9A5B99D03C887CC75A69114AC65F /* BinaryDisposable.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = BinaryDisposable.swift; path = RxSwift/Disposables/BinaryDisposable.swift; sourceTree = "<group>"; };
 		1DFC4897AF7AB4DED0AFD938C917FED1 /* AnyObserver.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AnyObserver.swift; path = RxSwift/AnyObserver.swift; sourceTree = "<group>"; };
@@ -1287,68 +1287,6 @@
 			path = RxOptional;
 			sourceTree = "<group>";
 		};
-		1AF54C4C2B20B3BA00468606 /* AntMedia */ = {
-			isa = PBXGroup;
-			children = (
-				1AF54C4D2B20B3BA00468606 /* RTCCustomFrameCapturer.swift */,
-				1AF54C4E2B20B3BA00468606 /* AntMediaClient.swift */,
-				1AF54C4F2B20B3BA00468606 /* AntMediaWebRTCClient.swift */,
-				1AF54C502B20B3BA00468606 /* AntMediaError.swift */,
-				1AF54C512B20B3BA00468606 /* AntMediaClientProtocol.swift */,
-				1AF54C522B20B3BA00468606 /* AntMediaConfig.swift */,
-				1AF54C532B20B3BA00468606 /* AntMediaWebRTCClientDelegate.swift */,
-				1AF54C542B20B3BA00468606 /* AntMediaClientDelegate.swift */,
-			);
-			name = AntMedia;
-			path = ../Desktop/Sources/AntMedia;
-			sourceTree = "<group>";
-		};
-		1AF54C562B20B3BA00468606 /* APIService */ = {
-			isa = PBXGroup;
-			children = (
-				1AF54C572B20B3BA00468606 /* ApiProvider.swift */,
-				1AF54C582B20B3BA00468606 /* WebSocketApiService.swift */,
-			);
-			name = APIService;
-			path = ../Desktop/Sources/APIService;
-			sourceTree = "<group>";
-		};
-		1AF54C592B20B3BA00468606 /* Extensions */ = {
-			isa = PBXGroup;
-			children = (
-				1AF54C5A2B20B3BA00468606 /* Strings+Extensions.swift */,
-				1AF54C5B2B20B3BA00468606 /* URLRequest+Extensions.swift */,
-				1AF54C5C2B20B3BA00468606 /* Encodable+Extensions.swift */,
-				1AF54C5D2B20B3BA00468606 /* Dictionary+Extensions.swift */,
-				1AF54C5E2B20B3BA00468606 /* GenericError.swift */,
-				1AF54C5F2B20B3BA00468606 /* Data+Extensions.swift */,
-			);
-			name = Extensions;
-			path = ../Desktop/Sources/Extensions;
-			sourceTree = "<group>";
-		};
-		1AF54C612B20B3BA00468606 /* Models */ = {
-			isa = PBXGroup;
-			children = (
-				1AF54C622B20B3BA00468606 /* AudioInfoModel.swift */,
-				1AF54C632B20B3BA00468606 /* ListenerMessageModel.swift */,
-				1AF54C642B20B3BA00468606 /* UserTypeModel.swift */,
-				1AF54C652B20B3BA00468606 /* PresenterMessageModel.swift */,
-				1AF54C662B20B3BA00468606 /* RequestCredentialModel.swift */,
-			);
-			name = Models;
-			path = ../Desktop/Sources/Models;
-			sourceTree = "<group>";
-		};
-		1AF54C672B20B3BA00468606 /* Helpers */ = {
-			isa = PBXGroup;
-			children = (
-				1AF54C682B20B3BA00468606 /* Run.swift */,
-			);
-			name = Helpers;
-			path = ../Desktop/Sources/Helpers;
-			sourceTree = "<group>";
-		};
 		274A3DF9377B8030554E0A927DEC721C /* Pods-VoxConnectPod_Tests */ = {
 			isa = PBXGroup;
 			children = (
@@ -1712,14 +1650,31 @@
 			isa = PBXGroup;
 			children = (
 				1AF54BC92B20B36B00468606 /* WebRTC.xcframework */,
+				1AF54CB22B20B8BF00468606 /* ConferenceClient.swift */,
+				1AF54CB32B20B8BF00468606 /* ConferenceManager.swift */,
+				1AF54CBD2B20B8CE00468606 /* AntMediaClient.swift */,
+				1AF54CBA2B20B8CE00468606 /* AntMediaClientDelegate.swift */,
+				1AF54CBC2B20B8CE00468606 /* AntMediaClientProtocol.swift */,
+				1AF54CB62B20B8CE00468606 /* AntMediaConfig.swift */,
+				1AF54CBB2B20B8CE00468606 /* AntMediaError.swift */,
+				1AF54CB92B20B8CE00468606 /* AntMediaWebRTCClient.swift */,
+				1AF54CB72B20B8CE00468606 /* AntMediaWebRTCClientDelegate.swift */,
+				1AF54CB82B20B8CE00468606 /* RTCCustomFrameCapturer.swift */,
+				1AF54CC72B20B8D600468606 /* ApiProvider.swift */,
+				1AF54CC62B20B8D600468606 /* WebSocketApiService.swift */,
+				1AF54CCB2B20B8DE00468606 /* Data+Extensions.swift */,
+				1AF54CCA2B20B8DE00468606 /* Dictionary+Extensions.swift */,
+				1AF54CCC2B20B8DE00468606 /* Encodable+Extensions.swift */,
+				1AF54CCF2B20B8DE00468606 /* GenericError.swift */,
+				1AF54CCD2B20B8DE00468606 /* Strings+Extensions.swift */,
+				1AF54CCE2B20B8DE00468606 /* URLRequest+Extensions.swift */,
+				1AF54CD62B20B8E500468606 /* Run.swift */,
+				1AF54CD82B20B8ED00468606 /* AudioInfoModel.swift */,
+				1AF54CD92B20B8ED00468606 /* ListenerMessageModel.swift */,
+				1AF54CDC2B20B8EE00468606 /* PresenterMessageModel.swift */,
+				1AF54CDA2B20B8EE00468606 /* RequestCredentialModel.swift */,
+				1AF54CDB2B20B8EE00468606 /* UserTypeModel.swift */,
 				121D7D5A400A0F7CDD2BAC849E198CD0 /* ReplaceMe.swift */,
-				1AF54C552B20B3BA00468606 /* ConferenceClient.swift */,
-				1AF54C602B20B3BA00468606 /* ConferenceManager.swift */,
-				1AF54C4C2B20B3BA00468606 /* AntMedia */,
-				1AF54C562B20B3BA00468606 /* APIService */,
-				1AF54C592B20B3BA00468606 /* Extensions */,
-				1AF54C672B20B3BA00468606 /* Helpers */,
-				1AF54C612B20B3BA00468606 /* Models */,
 				0961B0ED0409979BD23B7C6F0F8F3442 /* Pod */,
 				5934464311F569D468018C84E61E253B /* Support Files */,
 			);
@@ -2465,32 +2420,32 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1AF54C812B20B40100468606 /* RTCCustomFrameCapturer.swift in Sources */,
-				1AF54C772B20B3F500468606 /* Strings+Extensions.swift in Sources */,
-				1AF54C842B20B40100468606 /* AntMediaConfig.swift in Sources */,
+				1AF54CE12B20B8EE00468606 /* PresenterMessageModel.swift in Sources */,
 				1BBA17C84C1047D950E6EFD6FA8CB497 /* ReplaceMe.swift in Sources */,
-				1AF54C6A2B20B3BA00468606 /* ConferenceManager.swift in Sources */,
-				1AF54C7A2B20B3F500468606 /* GenericError.swift in Sources */,
-				1AF54C792B20B3F500468606 /* Dictionary+Extensions.swift in Sources */,
-				1AF54C7C2B20B3F900468606 /* WebSocketApiService.swift in Sources */,
-				1AF54C722B20B3EC00468606 /* PresenterMessageModel.swift in Sources */,
-				1AF54C752B20B3F000468606 /* Run.swift in Sources */,
-				1AF54C702B20B3EC00468606 /* UserTypeModel.swift in Sources */,
-				1AF54C692B20B3BA00468606 /* ConferenceClient.swift in Sources */,
-				1AF54C832B20B40100468606 /* AntMediaError.swift in Sources */,
-				1AF54C712B20B3EC00468606 /* RequestCredentialModel.swift in Sources */,
-				1AF54C732B20B3EC00468606 /* AudioInfoModel.swift in Sources */,
-				1AF54C762B20B3F500468606 /* Data+Extensions.swift in Sources */,
-				1AF54C822B20B40100468606 /* AntMediaWebRTCClient.swift in Sources */,
-				1AF54C782B20B3F500468606 /* Encodable+Extensions.swift in Sources */,
-				1AF54C7B2B20B3F500468606 /* URLRequest+Extensions.swift in Sources */,
-				1AF54C852B20B40100468606 /* AntMediaClientProtocol.swift in Sources */,
-				1AF54C7D2B20B3F900468606 /* ApiProvider.swift in Sources */,
-				1AF54C7E2B20B40100468606 /* AntMediaClient.swift in Sources */,
-				1AF54C7F2B20B40100468606 /* AntMediaWebRTCClientDelegate.swift in Sources */,
+				1AF54CC52B20B8CE00468606 /* AntMediaClient.swift in Sources */,
+				1AF54CE02B20B8EE00468606 /* UserTypeModel.swift in Sources */,
+				1AF54CDE2B20B8EE00468606 /* ListenerMessageModel.swift in Sources */,
+				1AF54CD02B20B8DE00468606 /* Dictionary+Extensions.swift in Sources */,
+				1AF54CDF2B20B8EE00468606 /* RequestCredentialModel.swift in Sources */,
+				1AF54CC32B20B8CE00468606 /* AntMediaError.swift in Sources */,
+				1AF54CBF2B20B8CE00468606 /* AntMediaWebRTCClientDelegate.swift in Sources */,
+				1AF54CD12B20B8DE00468606 /* Data+Extensions.swift in Sources */,
+				1AF54CDD2B20B8EE00468606 /* AudioInfoModel.swift in Sources */,
+				1AF54CB52B20B8BF00468606 /* ConferenceManager.swift in Sources */,
+				1AF54CC92B20B8D600468606 /* ApiProvider.swift in Sources */,
+				1AF54CD52B20B8DE00468606 /* GenericError.swift in Sources */,
+				1AF54CD42B20B8DE00468606 /* URLRequest+Extensions.swift in Sources */,
+				1AF54CC82B20B8D600468606 /* WebSocketApiService.swift in Sources */,
+				1AF54CBE2B20B8CE00468606 /* AntMediaConfig.swift in Sources */,
+				1AF54CB42B20B8BF00468606 /* ConferenceClient.swift in Sources */,
+				1AF54CC02B20B8CE00468606 /* RTCCustomFrameCapturer.swift in Sources */,
+				1AF54CD32B20B8DE00468606 /* Strings+Extensions.swift in Sources */,
+				1AF54CC12B20B8CE00468606 /* AntMediaWebRTCClient.swift in Sources */,
+				1AF54CC22B20B8CE00468606 /* AntMediaClientDelegate.swift in Sources */,
+				1AF54CC42B20B8CE00468606 /* AntMediaClientProtocol.swift in Sources */,
 				BF2B9C624430F5919275EF988F71126D /* VoxConnectPod-dummy.m in Sources */,
-				1AF54C802B20B40100468606 /* AntMediaClientDelegate.swift in Sources */,
-				1AF54C742B20B3EC00468606 /* ListenerMessageModel.swift in Sources */,
+				1AF54CD72B20B8E500468606 /* Run.swift in Sources */,
+				1AF54CD22B20B8DE00468606 /* Encodable+Extensions.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
