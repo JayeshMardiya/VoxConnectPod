@@ -1,0 +1,64 @@
+PODS:
+  - RxCocoa (6.5.0):
+    - RxRelay (= 6.5.0)
+    - RxSwift (= 6.5.0)
+  - RxOptional (5.0.2):
+    - RxCocoa (~> 6.0)
+    - RxSwift (~> 6.0)
+  - RxRelay (6.5.0):
+    - RxSwift (= 6.5.0)
+  - RxSwift (6.5.0)
+  - RxSwiftExt (6.2.0):
+    - RxSwiftExt/Core (= 6.2.0)
+    - RxSwiftExt/RxCocoa (= 6.2.0)
+  - RxSwiftExt/Core (6.2.0):
+    - RxSwift (~> 6.0)
+  - RxSwiftExt/RxCocoa (6.2.0):
+    - RxCocoa (~> 6.0)
+    - RxSwiftExt/Core
+  - Starscream (4.0.6)
+  - VoxConnectPod (0.1.0):
+    - RxCocoa (= 6.5.0)
+    - RxOptional (= 5.0.2)
+    - RxSwiftExt (= 6.2.0)
+    - Starscream (~> 4.0.4)
+
+DEPENDENCIES:
+  - RxCocoa (= 6.5.0)
+  - RxOptional (= 5.0.2)
+  - RxSwiftExt (from `https://github.com/RxSwiftCommunity/RxSwiftExt.git`, branch `6.2.0`)
+  - Starscream (~> 4.0.4)
+  - VoxConnectPod (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - RxCocoa
+    - RxOptional
+    - RxRelay
+    - RxSwift
+    - Starscream
+
+EXTERNAL SOURCES:
+  RxSwiftExt:
+    :branch: 6.2.0
+    :git: https://github.com/RxSwiftCommunity/RxSwiftExt.git
+  VoxConnectPod:
+    :path: "../"
+
+CHECKOUT OPTIONS:
+  RxSwiftExt:
+    :commit: a8065d19acbdee55c6e2b2d9a17a420e34ab8d83
+    :git: https://github.com/RxSwiftCommunity/RxSwiftExt.git
+
+SPEC CHECKSUMS:
+  RxCocoa: 94f817b71c07517321eb4f9ad299112ca8af743b
+  RxOptional: 3664964c96b69dd20c9cf78bdfe546615e26eca8
+  RxRelay: 1de1523e604c72b6c68feadedd1af3b1b4d0ecbd
+  RxSwift: 5710a9e6b17f3c3d6e40d6e559b9fa1e813b2ef8
+  RxSwiftExt: f26d5911457be97de43c66606f4fa48386486a53
+  Starscream: fb2c4510bebf908c62bd383bcf05e673720e91fd
+  VoxConnectPod: 367a4a5ad9ab6976c25c9aa544857ce805033c54
+
+PODFILE CHECKSUM: 82b3acf2d2c652d281719d183f50bcb6a3f8a735
+
+COCOAPODS: 1.13.0

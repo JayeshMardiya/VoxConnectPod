@@ -1,0 +1,17 @@
+use_frameworks!
+
+platform :ios, '12.0'
+
+target 'VoxConnectPod_Example' do
+  pod 'VoxConnectPod', :path => '../'
+  pod 'Starscream', '~> 4.0.4'
+  pod 'RxCocoa', '6.5.0'
+  pod 'RxOptional', '5.0.2'
+  pod 'RxSwiftExt', :git => 'https://github.com/RxSwiftCommunity/RxSwiftExt.git', :branch => '6.2.0'
+
+  target 'VoxConnectPod_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

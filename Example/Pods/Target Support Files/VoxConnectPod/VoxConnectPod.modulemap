@@ -1,0 +1,6 @@
+framework module VoxConnectPod {
+  umbrella header "VoxConnectPod-umbrella.h"
+
+  export *
+  module * { export * }
+}
